@@ -27,7 +27,7 @@
 
 <br />
 
-Do you also like some of these things? Or do you wanna talk about it? Find me on *Twitter* and let's have a conversation! 🚀
+Do you also like some of these things? Or do you wanna talk about it? Find me on [Twitter][twitter-url] and let's have a conversation! 🚀
 
 [linkedin-shield]: https://img.shields.io/badge/-Cristian_Prochnow-black.svg?style=flat&logo=linkedin&colorB=0077b4
 [linkedin-url]: https://linkedin.com/in/cristianprochnow
