@@ -2,8 +2,8 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
-[![Dev Community][dev-community-shield]][dev-community-url]
 [![Gmail][gmail-shield]][gmail-url]
+[![Dev Community][dev-community-shield]][dev-community-url]
 
 <br />
 
