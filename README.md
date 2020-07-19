@@ -3,6 +3,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![Dev Community][dev-community-shield]][dev-community-url]
+[![Gmail][gmail-shield]][gmail-url]
 
 <br />
 
@@ -35,3 +36,5 @@ Do you also like some of these things? Or do you wanna talk about it? Find me on
 [twitter-url]: https://twitter.com/crisprochnow
 [dev-community-shield]: https://img.shields.io/badge/-@cristianprochnow-black.svg?style=flat&logo=dev.to&logoColor=white&colorB=000
 [dev-community-url]: https://dev.to/cristianprochnow
+[gmail-shield]: https://img.shields.io/badge/-cristianprochnow@gmail.com-black.svg?style=flat&logo=gmail&logoColor=white&colorB=da4638
+[gmail-url]: mailto:cristianprochnow@gmail.com
