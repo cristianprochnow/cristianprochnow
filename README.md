@@ -4,6 +4,7 @@
 [![Twitter][twitter-shield]][twitter-url]
 [![Gmail][gmail-shield]][gmail-url]
 [![Dev Community][dev-community-shield]][dev-community-url]
+[![Code Wars][codewars-shield]][codewars-url]
 
 <br />
 
@@ -38,3 +39,5 @@ Do you also like some of these things? Or do you wanna talk about it? Find me on
 [dev-community-url]: https://dev.to/cristianprochnow
 [gmail-shield]: https://img.shields.io/badge/-cristianprochnow@gmail.com-black.svg?style=flat&logo=gmail&logoColor=white&colorB=da4638
 [gmail-url]: mailto:cristianprochnow@gmail.com
+[codewars-shield]: https://codewars.com/users/cristianprochnow/badges/micro
+[codewars-url]: https://codewars.com/users/cristianprochnow
