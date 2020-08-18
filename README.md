@@ -5,14 +5,6 @@
 [![Gmail][gmail-shield]][gmail-url]
 [![Dev Community][dev-community-shield]][dev-community-url]
 
-<br />
-
-⚡ **Full Stack developer and aspiring UI/UX Designer.**
-
-💡 **Passionate about technology and the power it has to change people's lives.**
-
-<br />
-
 💻 Coding + 🎧 Your favorite music = Perfect first step to change the world around you. 🎉
 
 <br />
