@@ -7,18 +7,14 @@
 [![Gmail][gmail-shield]][gmail-url]
 [![Dev Community][dev-community-shield]][dev-community-url]
 
-| [![Cristian's github stats][github-stats-image]][github-url] | [![Cristian's top languages][github-top-languages-image]][github-url] |
-|---|---|
-
 <img src="./.github/hero.svg" alt="illustration" align="right" width="240" />
 
 ### Technologies
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
-" alt="NodeJS" height="40" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40" /> <!--
+--><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" height="40" /><!--
+--><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" /><!--
+--><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" />
 
 ### Subjects I like to talk about
 
@@ -29,7 +25,8 @@
 5. 🍿 Sci-Fi movies
 6. ☢ Breaking Bad
 
-<br />
+| [![Cristian's github stats][github-stats-image]][github-url] | [![Cristian's top languages][github-top-languages-image]][github-url] |
+|---|---|
 
 [linkedin-shield]: https://img.shields.io/badge/-Cristian_Prochnow-black.svg?style=flat&logo=linkedin&colorB=0077b4
 [linkedin-url]: https://linkedin.com/in/cristianprochnow
