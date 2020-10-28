@@ -2,10 +2,7 @@
   Cristian Prochnow
 </h1>
 
-<strong align="center">
-  Full Stack Developer and aspiring UI/UX Designer. <br />
-  Passionate about technology and the power it has to change people's lives.
-</strong>
+<strong align="center">Full Stack Developer and aspiring UI/UX Designer. <br /> Passionate about technology and the power it has to change people's lives.</strong>
 
 <div align="center">
 
