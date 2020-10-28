@@ -1,13 +1,17 @@
-# Cristian Prochnow
+<h1 align="center">
+  Cristian Prochnow
+</h1>
 
-**Full Stack Developer and aspiring UI/UX Designer. Passionate about technology and the power it has to change people's lives.**
+<strong align="center">Full Stack Developer and aspiring UI/UX Designer. Passionate about technology and the power it has to change people's lives.</strong>
+
+<br />
+
+<img src="./.github/hero.svg" alt="illustration" align="right" width="240" />
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![Gmail][gmail-shield]][gmail-url]
 [![Dev Community][dev-community-shield]][dev-community-url]
-
-<img src="./.github/hero.svg" alt="illustration" align="right" width="240" />
 
 ### Technologies
 
@@ -25,8 +29,12 @@
 5. 🍿 Sci-Fi movies
 6. ☢ Breaking Bad
 
-| [![Cristian's github stats][github-stats-image]][github-url] | [![Cristian's top languages][github-top-languages-image]][github-url] |
-|---|---|
+<div align="center">
+
+  | [![Cristian's github stats][github-stats-image]][github-url] | [![Cristian's top languages][github-top-languages-image]][github-url] |
+  |---|---|
+
+</div>
 
 [linkedin-shield]: https://img.shields.io/badge/-Cristian_Prochnow-black.svg?style=flat&logo=linkedin&colorB=0077b4
 [linkedin-url]: https://linkedin.com/in/cristianprochnow
