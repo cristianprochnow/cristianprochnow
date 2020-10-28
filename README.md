@@ -1,15 +1,26 @@
-# 🧑🏼 Cristian Prochnow
+# Cristian Prochnow
+
+**Full Stack Developer and aspiring UI/UX Designer. Passionate about technology and the power it has to change people's lives.**
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![Gmail][gmail-shield]][gmail-url]
 [![Dev Community][dev-community-shield]][dev-community-url]
 
-💻 Coding + 🎧 Your favorite music = Perfect first step to change the world around you. 🎉
+| [![Cristian's github stats][github-stats-image]][github-url] | [![Cristian's top languages][github-top-languages-image]][github-url] |
+|---|---|
 
-<br />
+<img src="./.github/hero.svg" alt="illustration" align="right" width="240" />
 
-💬 Subjects I like to talk about:
+### Technologies
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" height="40" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
+" alt="NodeJS" height="40" />
+
+### Subjects I like to talk about
 
 1. 👾 Technology
 2. 🎵 Music
@@ -20,8 +31,6 @@
 
 <br />
 
-Do you also like some of these things? Or do you wanna talk about it? Find me on [Twitter][twitter-url] and let's have a conversation! 🚀
-
 [linkedin-shield]: https://img.shields.io/badge/-Cristian_Prochnow-black.svg?style=flat&logo=linkedin&colorB=0077b4
 [linkedin-url]: https://linkedin.com/in/cristianprochnow
 [twitter-shield]: https://img.shields.io/badge/-@crisprochnow-black.svg?style=flat&logo=twitter&logoColor=white&colorB=1b9deb
@@ -30,3 +39,6 @@ Do you also like some of these things? Or do you wanna talk about it? Find me on
 [dev-community-url]: https://dev.to/cristianprochnow
 [gmail-shield]: https://img.shields.io/badge/-cristianprochnow@gmail.com-black.svg?style=flat&logo=gmail&logoColor=white&colorB=da4638
 [gmail-url]: mailto:cristianprochnow@gmail.com
+[github-url]: https://github.com/cristianprochnow
+[github-stats-image]: https://github-readme-stats.vercel.app/api?username=cristianprochnow&show_icons=true&theme=tokyonight
+[github-top-languages-image]: https://github-readme-stats.vercel.app/api/top-langs/?username=cristianprochnow&layout=compact&theme=tokyonight
