@@ -6,10 +6,14 @@
 
 <img src="./.github/hero.svg" alt="illustration" align="right" width="240" />
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![Gmail][gmail-shield]][gmail-url]
-[![Dev Community][dev-community-shield]][dev-community-url]
+<div align="center">
+
+  [![LinkedIn][linkedin-shield]][linkedin-url]
+  [![Twitter][twitter-shield]][twitter-url]
+  [![Gmail][gmail-shield]][gmail-url]
+  [![Dev Community][dev-community-shield]][dev-community-url]
+
+</div>
 
 ### Technologies
 
