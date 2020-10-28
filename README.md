@@ -4,8 +4,6 @@
 
 <strong align="center">Full Stack Developer and aspiring UI/UX Designer. Passionate about technology and the power it has to change people's lives.</strong>
 
-<img src="./.github/hero.svg" alt="illustration" align="right" width="240" />
-
 <div align="center">
 
   [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -14,6 +12,8 @@
   [![Dev Community][dev-community-shield]][dev-community-url]
 
 </div>
+
+<img src="./.github/hero.svg" alt="illustration" align="right" width="240" />
 
 ### Technologies
 
