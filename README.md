@@ -1,6 +1,6 @@
 <h1 align="center">Cristian Prochnow</h1>
 
-<p align="center"><strong>Full Stack Developer and aspiring UI Designer.</strong> <br /> Passionate about technology and the power it has to change people's lives.</p>
+<p align="center"><strong>Full Stack Developer and aspiring UI Designer.</strong></p>
 
 <div align="center">
 
